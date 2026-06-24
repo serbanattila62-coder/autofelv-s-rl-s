@@ -1,0 +1,2 @@
+# autofelvásárlás
+autofelvasarlas gyorsan korrekten
